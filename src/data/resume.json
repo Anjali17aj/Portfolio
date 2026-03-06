@@ -1,0 +1,169 @@
+{
+  "basics": {
+    "name": "ANJALI KUMARI",
+    "title": "Software Development Professional",
+    "summary": "Software Development Professional with hands-on experience in web application design & development. Currently working at C-DAC, contributing to government project domains through full-stack development using Java, Spring Boot, and React.js. Also involved in Information Security internal audits and IT risk assessments aligned with ISMS standards.",
+    "location": "Hyderabad, Telangana, India",
+    "email": "contactanjali507@gmail.com",
+    "phone": "+91 9693783446",
+    "links": [
+      { "name": "Website", "url": "#" },
+      { "name": "LinkedIn", "url": "#" },
+      { "name": "GitHub", "url": "#" }
+    ]
+  },
+  "experience": [
+    {
+      "company": "C-DAC Ministry of Electronics and IT, Govt. of India",
+      "role": "Project Associate",
+      "dates": "Dec 2024 - Present",
+      "location": "Hyderabad, Telangana, India",
+      "bullets": [
+        "Developed and maintained 30+ RESTful APIs for 11+ modules and built React.js UIs, enabling seamless and high-quality user experiences",
+        "Reduced API response times and improved overall application performance by 30% through database query optimization and caching strategies",
+        "Designed and implemented secure REST APIs with authentication and role-based access control, developing scalable backend services to handle high-volume API requests",
+        "Enterprise Government Platform Modernization: Contributed to modernization of legacy applications into microservices-based architecture",
+        "Implemented logging and debugging practices to monitor application behavior, trace issues, and improve system reliability",
+        "Delivered production-ready features using GitLab CI/CD pipelines, Docker containerization, and AWS services while following cloud-native practices across development and staging environments",
+        "Performed functionality and basic security testing using Postman and Burp Suite at the developer level and implemented unit tests using JUnit and Mockito to ensure code reliability",
+        "Collaborated with cross-functional teams in an Agile development environment, contributing to sprint planning and feature delivery",
+        "Contributed to ISEA - ISMS internal security audits and ensured adherence to ISMS compliance as an Information Security Representative (ISR) aligned with ISO 27001",
+        "Conducted annual risk assessments using CIA triad analysis and VAPT reports to identify vulnerabilities, threat scenarios, and risk ratings",
+        "Security: Information security fundamentals, Threats, Risk assessment",
+        "Mentored student interns in Java and Spring Boot as an instructor through hands-on sessions and debugging support",
+        "Supported Faculty Development Programs (FDPs) as part of the organizing team",
+        "Actively participates in organizational initiatives such as sports events, cultural programs, and cybersecurity workshops"
+      ]
+    },
+    {
+      "company": "C-DAC",
+      "role": "WBL Intern",
+      "dates": "Mar 2024 - Aug 2024",
+      "location": "Noida, Uttar Pradesh, India",
+      "bullets": [
+        "E-governance Project Bureau of Indian Standards (BIS): Contributed to modernization of legacy government applications by supporting the transition to a microservices-based architecture using Spring Boot; gained hands-on experience with Java, Spring MVC, Hibernate, Spring Security, JSP, and jQuery",
+        "Implemented secure MVC-based applications with database integration, authentication/authorization, CRUD modules, and backend workflows",
+        "Contributed in building secure and scalable modules for e-governance services and collaborated with mentors to understand real-world project workflows and coding standards",
+        "Developed a strong understanding of secure application design and backend workflows"
+      ]
+    },
+    {
+      "company": "TATA STEEL Ltd",
+      "role": "Project Intern",
+      "dates": "Dec 2023 - Apr 2024",
+      "location": "Jamshedpur, Jharkhand, India",
+      "bullets": [
+        "Built a web-based Plant Equipment Reservation and Management System using EJS, Node.js, and MongoDB for scheduling, equipment listing, and availability tracking; followed Agile practices"
+      ]
+    },
+    {
+      "company": "Salesforce Inc - AICTE (Trailblazer)",
+      "role": "Salesforce Developer Trainee",
+      "dates": "Apr 2022 - Jun 2022",
+      "location": "India",
+      "bullets": [
+        "Gained experience in SQL, LWC, CRM, and API-based project development using Java"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "item": "Reduced API response times and improved overall application performance by 30%",
+      "context": "through database query optimization, and caching strategies"
+    },
+    {
+      "item": "Developed and maintained 30+ RESTful APIs and microservices for 11+ modules",
+      "context": "enabling seamless, high quality user experiences"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Course Application",
+      "technologies": "Spring Boot, Hibernate, Spring Data JPA, MySQL, Postman, Apache Tomcat, React.js",
+      "link": "https://github.com/Anjali17aj/Course-Application",
+      "bullets": [
+        "Developed a full-stack Course Management Web Application using Spring Boot and React.js",
+        "Implemented REST APIs to add, view, and delete courses with MySQL database integration",
+        "Built a responsive user interface for seamless course management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "group": "Languages",
+      "items": ["Java", "SQL"]
+    },
+    {
+      "group": "Software Engineering Practices",
+      "items": [
+        "Object-Oriented Programming (OOP)", "Enterprise Java architecture", "Microservices-based applications", "CI/CD pipelines", "Docker", "Agile development workflows"
+      ]
+    },
+    {
+      "group": "Backend Development",
+      "items": [
+        "Java/J2EE", "Spring Boot", "Spring MVC", "Spring Security", "Hibernate", "Spring Data JPA", "RESTful APIs", "Microservices Architecture"
+      ]
+    },
+    {
+      "group": "Frontend Development",
+      "items": [
+        "React.js", "Angular (Basics)", "JavaScript", "HTML5", "CSS", "Bootstrap"
+      ]
+    },
+    {
+      "group": "Databases",
+      "items": [
+        "MySQL", "Redis", "Relational Database Design"
+      ]
+    },
+    {
+      "group": "Testing & Quality Assurance",
+      "items": [
+        "JUnit", "Mockito", "Unit Testing", "Postman"
+      ]
+    },
+    {
+      "group": "DevOps & Cloud",
+      "items": [
+        "Docker", "Jenkins", "Git", "GitHub", "GitLab", "Maven", "Tomcat", "Swagger", "Amazon Web Services (AWS)"
+      ]
+    },
+    {
+      "group": "Security & Analysis",
+      "items": [
+        "Burp Suite (Basics)", "Information Security Fundamentals", "Threat Analysis", "Risk Assessment", "ISO 27001 (Basics)"
+      ]
+    },
+    {
+      "group": "Tools & OS",
+      "items": [
+        "IntelliJ IDEA", "Spring Tool Suite (STS)", "Visual Studio Code", "Figma", "Canva", "Adobe Illustrator", "Microsoft Office", "Ubuntu", "Windows"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Birla Institute of Technology, Mesra",
+      "degree": "B.Tech in Computer Science and Engineering (CGPA: 7.92)",
+      "dates": "2020 - 2024",
+      "location": "India"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "EC-Council & Cisco Networking Academy: Ethical Hacking Essentials, Cyber Threat Management, Introduction to Cybersecurity and Web Application Development"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Enhancing cancer detection and prevention mechanisms using advanced machine learning approaches",
+      "year": "2024",
+      "authors": "Mishra K. N., Mishra A., Ray S., Kumari A., & Waris S. M.",
+      "journal": "Informatics in Medicine Unlocked",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352914824001357"
+    }
+  ],
+  "awards": [],
+  "extra": []
+}
