@@ -7,9 +7,9 @@
     "email": "contactanjali507@gmail.com",
     "phone": "+91 9693783446",
     "links": [
-      { "name": "Website", "url": "#" },
-      { "name": "LinkedIn", "url": "#" },
-      { "name": "GitHub", "url": "#" }
+      { "name": "Website", "url": "https://react-portfolio-pi-nine-71.vercel.app/" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/anjali-kumari17/" }, 
+  { "name": "GitHub", "url": "https://github.com/Anjali17aj" }
     ]
   },
   "experience": [
